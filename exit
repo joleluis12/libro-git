@@ -1,0 +1,25 @@
+warning: in the working copy of 'indice.txt', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/indice.txt b/indice.txt[m
+[1mindex 47547f2..4d5b9aa 100644[m
+[1m--- a/indice.txt[m
+[1m+++ b/indice.txt[m
+[36m@@ -1,14 +1,4 @@[m
+[31m-Capítulo 1: Introducción a Git[m
+[31m-Capítulo 2: Flujo de trabajo básico[m
+[31m-Capítulo 3: Repositorios remotos[m
+[31m-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[m
+[31m-git status[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[A[A[A[A[A[A[A[A[A[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[m
+[32m+[m[32mcapitulo 1: Introducción a git[m
+[32m+[m[32mcapitulo 2: Flujo de trabajo básico[m[41m [m
+[32m+[m[32mcapitulo 3: Gestión de ramas[m[41m [m
+[32m+[m[32mcapitulo 4: Repositorio remotos[m
+\ No newline at end of file[m
